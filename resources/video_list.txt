@@ -1,0 +1,48 @@
+introduction: https://www.youtube.com/watch?v=kWnW8fjO_QU
+into to C part 1: https://www.youtube.com/watch?v=kWnW8fjO_QU
+Arrays in C: https://www.youtube.com/watch?v=EH9YKsPV-D8
+Strings in C: https://www.youtube.com/watch?v=MW2VekJM-nw
+structs in C: https://www.youtube.com/watch?v=WtoucsEgeMc
+malloc and free: https://www.youtube.com/watch?v=8WG6NiIq-uM
+File & I/O: https://www.youtube.com/watch?v=7oLphrfzP60
+debugging with gdb: https://www.youtube.com/watch?v=0eDojIj6ji8
+make files: https://www.youtube.com/watch?v=fhG9lhayQ9A
+memory leaks: https://www.youtube.com/watch?v=KxReU5nTqx8
+intro to git: https://www.youtube.com/watch?v=xDAFuc6PXYs&t=7s
+type def: https://www.youtube.com/watch?v=qnMw-pEAJxQ
+C processor: https://www.youtube.com/watch?v=5jAhXrWz7gE
+common bugs: https://www.youtube.com/watch?v=QjHDYgjSsYc
+arrays v. pointers: https://www.youtube.com/watch?v=QjHDYgjSsYc
+pipes and redirects: https://www.youtube.com/watch?v=yYt_UKBaLYY
+masking and shifting: https://www.youtube.com/watch?v=DHrRmt9QDRU
+data sizes and endians: https://www.youtube.com/watch?v=rzb77Q2RZYI&t=1s
+number systems: https://www.youtube.com/watch?v=qfu0v0MYO_o&t=4s
+signes integers: https://www.youtube.com/watch?v=HNVJDAfFr5k
+ascii: https://www.youtube.com/watch?v=AVygRq6Wdzk
+floating point and numbers: https://www.youtube.com/watch?v=PZpfvdf7UtE
+x86: https://www.youtube.com/watch?v=lpMDM42cs6k
+compiling c to assembly: https://www.youtube.com/watch?v=yTJGR_B0628&t=1s
+basics of x86: https://www.youtube.com/watch?v=tIETazD5HSQ
+x86 arithmatic: https://www.youtube.com/watch?v=-Pf3jtWot2s
+condition codes x86: https://www.youtube.com/watch?v=UX8RN1bjX0c&t=1s
+conditional branches x86: https://www.youtube.com/watch?v=rnIj1QWJEPI
+loops x86: https://www.youtube.com/watch?v=4ha0YM0KpvY
+switch statements x86: https://www.youtube.com/watch?v=zfs93dgbDfM
+functions x86: https://www.youtube.com/watch?v=lCUCfEK0v5I
+function controll flow x86: https://www.youtube.com/watch?v=4-i0qPHrV-0
+function data flow x86: https://www.youtube.com/watch?v=vpzN8BxwFv8
+function local data x86: https://www.youtube.com/watch?v=CIFvo9MS_5s
+recursive function x86: https://www.youtube.com/watch?v=zEJAjmN7c1Q&t=1s
+arrays in memory: https://www.youtube.com/watch?v=hTR200fIgMs
+structs in memory: https://www.youtube.com/watch?v=4WPyWUY5_fg
+memory hierarchy: https://www.youtube.com/watch?v=TcrA2dvXAx8
+cache operations: https://www.youtube.com/watch?v=jH3cWsAba20
+cache sizes: https://www.youtube.com/watch?v=1G9Y98q49_0
+cache performance: https://www.youtube.com/watch?v=Cb5Yguyb2J0
+cache friendly code: https://www.youtube.com/watch?v=6fOEGmP57iA&t=3s
+logic gates: https://www.youtube.com/watch?v=D1uG1PBfNRo
+logic gates 2: https://www.youtube.com/watch?v=axehW_pZ5Ok
+boolean algebra: https://www.youtube.com/watch?v=8XFGbv4_QIY
+karnaugh maps: https://www.youtube.com/watch?v=7ApHuGJ32YU
+digital logic: https://www.youtube.com/watch?v=TIoCkvibAZI
+
